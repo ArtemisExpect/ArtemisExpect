@@ -38,5 +38,3 @@
 ---
 
 ![ArtemisExpect's Stats](https://github-readme-stats.vercel.app/api?username=ArtemisExpect&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![ArtemisExpect's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArtemisExpect&theme=radical&hide_border=false)
-![ArtemisExpect's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemisExpect&theme=radical&show_icons=true&hide_border=false&layout=compact)

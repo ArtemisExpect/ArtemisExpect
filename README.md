@@ -33,9 +33,9 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
----
+### Estatísticas 📊
 
-### Estatísticas
+---
 
 ![ArtemisExpect's Stats](https://github-readme-stats.vercel.app/api?username=ArtemisExpect&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![ArtemisExpect's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArtemisExpect&theme=radical&hide_border=false)
